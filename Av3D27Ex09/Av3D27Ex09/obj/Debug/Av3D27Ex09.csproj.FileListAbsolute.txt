@@ -1,0 +1,11 @@
+D:\escola e trabalho\poo\Av3D27Ex09\Av3D27Ex09\bin\Debug\Av3D27Ex09.exe.config
+D:\escola e trabalho\poo\Av3D27Ex09\Av3D27Ex09\bin\Debug\Av3D27Ex09.exe
+D:\escola e trabalho\poo\Av3D27Ex09\Av3D27Ex09\bin\Debug\Av3D27Ex09.pdb
+D:\escola e trabalho\poo\Av3D27Ex09\Av3D27Ex09\obj\Debug\Av3D27Ex09.csproj.AssemblyReference.cache
+D:\escola e trabalho\poo\Av3D27Ex09\Av3D27Ex09\obj\Debug\Av3D27Ex09.csproj.SuggestedBindingRedirects.cache
+D:\escola e trabalho\poo\Av3D27Ex09\Av3D27Ex09\obj\Debug\Av3D27Ex09.Form1.resources
+D:\escola e trabalho\poo\Av3D27Ex09\Av3D27Ex09\obj\Debug\Av3D27Ex09.Properties.Resources.resources
+D:\escola e trabalho\poo\Av3D27Ex09\Av3D27Ex09\obj\Debug\Av3D27Ex09.csproj.GenerateResource.cache
+D:\escola e trabalho\poo\Av3D27Ex09\Av3D27Ex09\obj\Debug\Av3D27Ex09.csproj.CoreCompileInputs.cache
+D:\escola e trabalho\poo\Av3D27Ex09\Av3D27Ex09\obj\Debug\Av3D27Ex09.exe
+D:\escola e trabalho\poo\Av3D27Ex09\Av3D27Ex09\obj\Debug\Av3D27Ex09.pdb
